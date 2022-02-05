@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="36px" src="https://static.cdnlogo.com/logos/j/86/java.svg" />
+<img align="left" alt="Java" width="36px" src="https://www.pngplay.com/wp-content/uploads/9/Java-Download-Free-PNG.png" />
 <img align="left" alt="C#" width="36px" src="https://blog.lystic.dev/wp-content/uploads/2016/05/csharp-768x768.png" />
 <img align="left" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" />
 <img align="left" alt="SQL" width="36px" src="https://www.pinclipart.com/picdir/big/9-92644_database-clipart-raw-data-azure-sql-server-png.png" />
