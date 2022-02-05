@@ -1,4 +1,4 @@
-### ** 🔥Aye, I'm FireBoom🔥 **
+### **🔥Aye, I'm FireBoom🔥**
 
 ## I'm an Artist, Dev and Science enthusiast.
 
