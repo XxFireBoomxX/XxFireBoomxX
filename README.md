@@ -1,6 +1,6 @@
 ### **🔥Aye, I'm FireBoom🔥**
 
-## I'm an Artist, Dev and Science enthusiast.
+## I'm Dev, Artist and Science enthusiast.
 
 - On the verge of knowing everything.
 - Always open for new connections.
