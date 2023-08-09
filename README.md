@@ -1,31 +1,21 @@
-### **🔥Aye, I'm FireBoom🔥**
+# 
 
-## I'm Dev, Artist and Science enthusiast.
+---
+## **About Me:**
 
-- On the verge of knowing everything.
-- Always open for new connections.
-- YouTube addict.
-- Hardcore geek.
+👋 Hi there! I'm **FireBoom**, a passionate programmer with a keen interest in technology, anime, and games. I believe in the power of software to shape the world and create exciting experiences.
 
-### Connect with me:
+💻 My programming journey has led me to become proficient in **C#** and **C++**, where I enjoy crafting elegant solutions to complex problems. Whether it's building robust applications or exploring the depths of algorithms, I'm always up for a coding challenge.
 
-[<img align="left" alt="XxFireBoomxX | LinkedIn" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="fireboomxdd | Instagram" width="40px" src="https://www.camelproductions.net/wp-content/uploads/2017/08/Instagram-Logo-2017.png" />][instagram]
+🎮 When I'm not immersed in code, you'll likely find me exploring virtual worlds, uncovering gaming adventures, and engaging in thrilling battles in the gaming universe. Anime also holds a special place in my heart, and I often find inspiration from its captivating stories and unique art styles.
 
-<br />
+📈 Besides my technical skills, I possess a strong foundation in general computer knowledge, which helps me stay up-to-date with the latest advancements in the industry.
 
-### Languages and Tools:
+🚀 My ultimate goal is to bridge my passion for technology and business, bringing innovative ideas to life. I believe in the potential of entrepreneurship and seek opportunities to create impactful projects.
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="36px" src="https://www.pngplay.com/wp-content/uploads/9/Java-Download-Free-PNG.png" />
-<img align="left" alt="C#" width="36px" src="https://blog.lystic.dev/wp-content/uploads/2016/05/csharp-768x768.png" />
-<img align="left" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" />
-<img align="left" alt="SQL" width="36px" src="https://www.pinclipart.com/picdir/big/9-92644_database-clipart-raw-data-azure-sql-server-png.png" />
-<img align="left" alt="Git" width="36px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.picpng.com/linux/linux-unix-tux-penguin-cute-43298.png" />
+---
 
-<br />
-<br />
+## Skills
 
-[instagram]: https://www.instagram.com/fireboomxdd/
-[linkedin]: https://linkedin.com/in/xxfireboomxx/
+- Programming Languages: C#, C++, Java, AL, SQL
+- General Computer Knowledge: Networking, Operating Systems, Hardware
