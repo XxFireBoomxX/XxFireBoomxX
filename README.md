@@ -1,6 +1,3 @@
-[//]: # (Profile picture by hcnone: https://twitter.com/hcnone)
-[//]: # (Original inspiration by Rivhey: https://www.reddit.com/user/Rivhey/)
-
 ![Banner](https://github.com/user-attachments/assets/4b3c0276-e910-4309-903e-f8a2e9a3d68f)
 
 ---
