@@ -84,7 +84,7 @@ Crafted for deep content, clean design, and personal publishing workflows.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxfireboomxx&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxFireBoomxX&layout=compact&theme=radical)
 
 ---
 
